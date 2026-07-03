@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 MSc mechatronics student at KTH!
+- BSc mechatronics at Tecnologico de Monterrey (México).
+- MSc mechatronics at Royal Institute of Techonology (Sweden).
+- Experience with AI, data analysis, embedded systems and robotics.
 
-🔭 Learning about Embedded systems, AI, data analysis and more!
 
-Fun fact: Still lerning to use git hehe
